@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Catppuccin",
+  "accentColor": "#ea999c",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "textFontFamily": "JetBrainsMono Nerd Font Propo",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Propo",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": false,
+  "nativeMenus": false,
+  "baseFontSize": 15
+}
